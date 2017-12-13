@@ -6,9 +6,7 @@ Omega2 Base Board 2017
 Sometimes for our IoT devices we need more processing power. When we need to perform complex tasks, the best way is to use microprocessors instead micro controllers.
 The Omega2 base board provides a high performance platform for IoT devices. You can build even an router using it!
 
- 
-
-# Features:
+ # Features:
 - 580MHz MIPS Microprocessor
 - WiFi 802.11b/g/n
 - 21 x GPIOs
@@ -23,4 +21,4 @@ The Omega2 base board provides a high performance platform for IoT devices. You 
 # Reference 
 - [IoTMakers Omega2 Base Board](http://iotmakers.com.br/omega2/omega2-base-board)
 
-Designed by IoTMakers.
+Designed by [IoTMakers](http://iotmakers.com.br).
