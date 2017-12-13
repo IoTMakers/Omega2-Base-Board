@@ -9,16 +9,16 @@ The Omega2 base board provides a high performance platform for IoT devices. You 
  
 
 # Features:
-580MHz MIPS Microprocessor
-WiFi 802.11b/g/n
-21 x GPIOs
-1 x I2S
-1 x I2C
-2 x UART
-1 x SPI
-USB HOST full speed
-Ethernet 10/100
-SDCard
+- 580MHz MIPS Microprocessor
+- WiFi 802.11b/g/n
+- 21 x GPIOs
+- 1 x I2S
+- 1 x I2C
+- 2 x UART
+- 1 x SPI
+- USB HOST full speed
+- Ethernet 10/100
+- SDCard
 
 # Reference 
 - [IoTMakers Omega2 Base Board](http://iotmakers.com.br/omega2/omega2-base-board)
