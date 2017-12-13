@@ -1,7 +1,7 @@
 # Omega2-Base-Board
 Omega2 Base Board 2017
 
-<img src="http://iotmakers.com.br/wp-content/uploads/2017/08/IMG_20170820_190459-01-e1503832824931-830x305.jpeg" width="200">
+<img src="http://iotmakers.com.br/wp-content/uploads/2017/08/IMG_20170820_190459-01-e1503832824931-830x305.jpeg" width="600">
 
 Sometimes for our IoT devices we need more processing power. When we need to perform complex tasks, the best way is to use microprocessors instead micro controllers.
 The Omega2 base board provides a high performance platform for IoT devices. You can build even an router using it!
