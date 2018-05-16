@@ -22,3 +22,8 @@ The Omega2 base board provides a high performance platform for IoT devices. You 
 - [IoTMakers Omega2 Base Board](http://iotmakers.com.br/omega2/omega2-base-board)
 
 Designed by [IoTMakers](http://iotmakers.com.br).
+
+
+# Updating the Omega
+
+- 05-15-2018 [Downloading the Firmware Image](http://repo.onion.io/omega2/images/)
