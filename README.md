@@ -26,4 +26,13 @@ Designed by [IoTMakers](http://iotmakers.com.br).
 
 # Updating the Omega
 
-- 05-15-2018 [Downloading the Firmware Image](http://repo.onion.io/omega2/images/)
+- 09-15-2018 [Downloading the Firmware Image](http://repo.onion.io/omega2/images/)
+
+# Default login terminal.
+
+- Username: root 
+- Password: onioneer
+
+# Default Wifi login
+- Password : 123456578
+
